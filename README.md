@@ -1,5 +1,7 @@
 # Access Watch Express Logger
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/access-watch/access-watch-express-logger.svg)](https://greenkeeper.io/)
+
 An Express.js middleware to log HTTP requests to Access Watch.
 
 ## Install
